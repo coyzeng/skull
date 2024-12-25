@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-[Roadmap](https://github.com/users/coyzeng/projects/1) / [Project status](https://github.com/coyzeng/skull/discussions) / [中文](./README_CN.md)
+[Roadmap](https://github.com/users/coyzeng/projects/1) / [Project status](https://github.com/coyzeng/skull/discussions) / [English](./README.md)
 
 An All-in-One Native AI Model Inference Infrastructure in pure Go.
 
